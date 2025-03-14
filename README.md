@@ -1,3 +1,7 @@
+# 1h askhsh sth fwtogrammetria I
+## Onoma IOANNIS GALANIS
+## GEO23391015
+## 4o examhno
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
